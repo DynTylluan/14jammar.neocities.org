@@ -1,4 +1,4 @@
-# Dumb of owlman.neocities.org/14jammar
+# Dumb of 14jammar.neocities.org
 
 All the way back in 2015, I was still in my teenage years (indeed the worst years for anyone) and I wanted to put myself out there on the Web for all to see, I had made a few websites before, but they were all drag and drop ones that are okay, but I never felt like they were a good way to express yourself all that well, that's when I found out about [Neocities](https://neocities.org), the free web host that I would join and upload my site too.
 
